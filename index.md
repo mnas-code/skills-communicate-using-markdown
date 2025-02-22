@@ -17,3 +17,9 @@ func signInWithApple() {
       controller.performRequests()
   }
 ```
+
+### Below is a tasks list.
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
