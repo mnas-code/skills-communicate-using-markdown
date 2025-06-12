@@ -1,0 +1,2844 @@
+[
+  {
+    "bitrate": 0,
+    "packetRate": 0,
+    "totalBitrate": 0,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 0,
+    "totalBitrate": 150,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 0,
+    "totalBitrate": 300,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 0,
+    "totalBitrate": 450,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 0,
+    "totalBitrate": 600,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 0,
+    "totalBitrate": 750,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 0,
+    "totalBitrate": 900,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 15,
+    "totalBitrate": 0,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 15,
+    "totalBitrate": 150,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 15,
+    "totalBitrate": 300,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 15,
+    "totalBitrate": 450,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 15,
+    "totalBitrate": 600,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 15,
+    "totalBitrate": 750,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 15,
+    "totalBitrate": 900,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 30,
+    "totalBitrate": 0,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 30,
+    "totalBitrate": 150,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 30,
+    "totalBitrate": 300,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 30,
+    "totalBitrate": 450,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 30,
+    "totalBitrate": 600,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 30,
+    "totalBitrate": 750,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 30,
+    "totalBitrate": 900,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 45,
+    "totalBitrate": 0,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 45,
+    "totalBitrate": 150,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 45,
+    "totalBitrate": 300,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 45,
+    "totalBitrate": 450,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 45,
+    "totalBitrate": 600,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 45,
+    "totalBitrate": 750,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 45,
+    "totalBitrate": 900,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 60,
+    "totalBitrate": 0,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 60,
+    "totalBitrate": 150,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 60,
+    "totalBitrate": 300,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 60,
+    "totalBitrate": 450,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 60,
+    "totalBitrate": 600,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 60,
+    "totalBitrate": 750,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 60,
+    "totalBitrate": 900,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 75,
+    "totalBitrate": 0,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 75,
+    "totalBitrate": 150,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 75,
+    "totalBitrate": 300,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 75,
+    "totalBitrate": 450,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 75,
+    "totalBitrate": 600,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 75,
+    "totalBitrate": 750,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 75,
+    "totalBitrate": 900,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 90,
+    "totalBitrate": 0,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 90,
+    "totalBitrate": 150,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 90,
+    "totalBitrate": 300,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 90,
+    "totalBitrate": 450,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 90,
+    "totalBitrate": 600,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 90,
+    "totalBitrate": 750,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 0,
+    "packetRate": 90,
+    "totalBitrate": 900,
+    "results": [
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 0,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 0,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 0,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 0,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 0,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 0,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 0,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 15,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 15,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 15,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 15,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 15,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 15,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 15,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 30,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 30,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 30,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 30,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 30,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 30,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 30,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 45,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 45,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 45,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 45,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 45,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 45,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 45,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 60,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 60,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 60,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 60,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 60,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 60,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 60,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 75,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 75,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 75,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 75,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 75,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 75,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 75,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 90,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 90,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 90,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 90,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 90,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 90,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 150,
+    "packetRate": 90,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 0,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 0,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 0,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 0,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 0,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 0,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 0,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 15,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 15,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 15,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 15,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 15,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 15,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 15,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 30,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 30,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 30,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 30,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 30,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 30,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 30,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 45,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 45,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 45,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 45,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 45,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 45,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 45,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 60,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 60,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 60,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 60,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 60,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 60,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 60,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 75,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 75,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 75,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 75,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 75,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 75,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 75,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 90,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 90,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 90,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 90,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 90,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 90,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 300,
+    "packetRate": 90,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 0,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 0,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 0,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 0,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 0,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 0,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 0,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 15,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 15,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 15,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 15,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 15,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 15,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 15,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 30,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 30,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 30,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 30,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 30,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 30,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 30,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 45,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 45,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 45,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 45,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 45,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 45,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 45,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 60,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 60,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 60,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 60,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 60,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 60,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 60,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 75,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 75,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 75,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 75,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 75,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 75,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 75,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 90,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 90,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 90,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 90,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 90,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 90,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 450,
+    "packetRate": 90,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 0,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 0,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 0,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 0,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 0,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 0,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 0,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 15,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 15,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 15,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 15,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 15,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 15,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 15,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 30,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 30,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 30,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 30,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 30,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 30,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 30,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 45,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 45,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 45,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 45,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 45,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 45,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 45,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 60,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 60,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 60,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 60,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 60,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 60,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 60,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 75,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 75,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 75,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 75,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 75,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 75,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 75,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 90,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 90,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 90,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 90,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 90,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 90,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 600,
+    "packetRate": 90,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 0,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 0,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 0,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 0,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 0,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 0,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 0,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 15,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 15,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 15,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 15,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 15,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 15,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 15,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 30,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 30,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 30,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 30,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 30,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 30,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 30,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 45,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 45,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 45,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 45,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 45,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 45,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 45,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 60,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 60,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 60,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 60,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 60,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 60,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 60,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 75,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 75,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 75,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 75,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 75,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 75,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 75,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 90,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 90,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 90,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 90,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 90,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 90,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 750,
+    "packetRate": 90,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 0,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 0,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 0,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 0,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 0,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 0,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 0,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 15,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 15,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 15,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 15,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 15,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 15,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 15,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 30,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 30,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 30,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 30,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 30,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 30,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 30,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 45,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 45,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 45,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 45,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 45,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 45,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 45,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 60,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 60,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 60,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 60,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 60,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 60,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 60,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 75,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 75,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 75,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 75,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 75,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 75,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 75,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 90,
+    "totalBitrate": 0,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 90,
+    "totalBitrate": 150,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 90,
+    "totalBitrate": 300,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 90,
+    "totalBitrate": 450,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 90,
+    "totalBitrate": 600,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 90,
+    "totalBitrate": 750,
+    "results": [
+      4
+    ]
+  },
+  {
+    "bitrate": 900,
+    "packetRate": 90,
+    "totalBitrate": 900,
+    "results": [
+      4
+    ]
+  }
+]
